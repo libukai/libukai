@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Wakapi](https://github-readme-stats.vercel.app/api/wakatime?username=libukai&api_domain=time.10k.xyz&bg_color=FFFFFF&title_color=2F855A&icon_color=2F855A&text_color=323130&custom_title=Weekly%20Work%20Stats&layout=compact)
+![Wakapi](https://github-readme-stats.vercel.app/api/wakatime?username=libukai&api_domain=time.10k.xyz&bg_color=FFFFFF&title_color=2F855A&icon_color=2F855A&text_color=323130&custom_title=Work%20Stats&layout=compact)
 
