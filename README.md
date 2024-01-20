@@ -1,4 +1,4 @@
-# Working on AI 👋
+# I'm working on AI 😇
 
 <!--
 **libukai/libukai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Working Stats
-
 ![Wakapi](https://github-readme-stats.vercel.app/api/wakatime?username=libukai&api_domain=time.10k.xyz&bg_color=FFFFFF&title_color=2F855A&icon_color=2F855A&text_color=323130&custom_title=Weekly%20Work%20Stats&layout=compact)
 
